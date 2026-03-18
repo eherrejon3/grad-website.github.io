@@ -351,8 +351,8 @@ img {
 }
 
 .work__img img {
-  height: 300px;
-  width: auto;
+  height: auto;
+  /* width: auto; */
   /*Scale down will take the necessary specified space that is 300px x 100px without stretching the image*/
   object-fit:scale-down;
   transition: 1s;
