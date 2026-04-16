@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Herrejon;Elizabeth;;;
+FN:Elizabeth Herrejon
+ORG:
+ADR;TYPE=WORK:
+TITLE:Electrical Engineer
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:elizabeth.m.herrejon@gmail.com
+URL;TYPE=Digital Business Card:
+URL:https://eherrejon3.github.io/grad-website.github.io/
+URL;TYPE=Website:https://eherrejon3.github.io/grad-website.github.io/
+URL;TYPE=GitHub:https://github.com/https://github.com/eherrejon3
+URL;TYPE=LinkedIn:https://linkedin.com/linkedin.com/in/elizabeth-h-659b74191
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Empowering a less emotional world.
+UID:EnBizCard-100210293
+END:VCARD
